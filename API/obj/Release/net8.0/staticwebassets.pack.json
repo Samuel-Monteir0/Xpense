@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets/3rdpartylicenses.txt"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/app/assets/xp-logo.png",
+      "PackagePath": "staticwebassets/app/assets/xp-logo.png"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/app/assets/xp-person.png",
+      "PackagePath": "staticwebassets/app/assets/xp-person.png"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/app/assets/xpense-white.png",
+      "PackagePath": "staticwebassets/app/assets/xpense-white.png"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/app/assets/xpense.png",
+      "PackagePath": "staticwebassets/app/assets/xpense.png"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/chunk-5T2JIA5J.js",
+      "PackagePath": "staticwebassets/chunk-5T2JIA5J.js"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/chunk-L47YZVFE.js",
+      "PackagePath": "staticwebassets/chunk-L47YZVFE.js"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/main-JNFXEUPJ.js",
+      "PackagePath": "staticwebassets/main-JNFXEUPJ.js"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/media/fontawesome-webfont-3KIJVIEY.svg",
+      "PackagePath": "staticwebassets/media/fontawesome-webfont-3KIJVIEY.svg"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/media/fontawesome-webfont-5GKVPAEF.woff2",
+      "PackagePath": "staticwebassets/media/fontawesome-webfont-5GKVPAEF.woff2"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/media/fontawesome-webfont-FMJ3VJ65.eot",
+      "PackagePath": "staticwebassets/media/fontawesome-webfont-FMJ3VJ65.eot"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/media/fontawesome-webfont-RJ6LE7IU.ttf",
+      "PackagePath": "staticwebassets/media/fontawesome-webfont-RJ6LE7IU.ttf"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/media/fontawesome-webfont-Z4ARLA73.woff",
+      "PackagePath": "staticwebassets/media/fontawesome-webfont-Z4ARLA73.woff"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/polyfills-SCHOHYNV.js",
+      "PackagePath": "staticwebassets/polyfills-SCHOHYNV.js"
+    },
+    {
+      "Id": "/Users/samuelmonteiro/Desktop/Udemy/Dotnet_Core/Xpense_Angular_Core/Xpense/API/wwwroot/styles-Z2K6L7MU.css",
+      "PackagePath": "staticwebassets/styles-Z2K6L7MU.css"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
